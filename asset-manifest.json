@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abdulmalekha/Social-Web/static/css/main.673f2e0b.css",
-    "main.js": "/abdulmalekha/Social-Web/static/js/main.96394705.js",
-    "static/js/592.a5ecb00a.chunk.js": "/abdulmalekha/Social-Web/static/js/592.a5ecb00a.chunk.js",
-    "static/media/bg.jpg": "/abdulmalekha/Social-Web/static/media/bg.ce2da9204839ec2bd42b.jpg",
-    "index.html": "/abdulmalekha/Social-Web/index.html",
-    "main.673f2e0b.css.map": "/abdulmalekha/Social-Web/static/css/main.673f2e0b.css.map",
-    "main.96394705.js.map": "/abdulmalekha/Social-Web/static/js/main.96394705.js.map",
-    "592.a5ecb00a.chunk.js.map": "/abdulmalekha/Social-Web/static/js/592.a5ecb00a.chunk.js.map"
+    "main.css": "/Social-Web/static/css/main.e21314fd.css",
+    "main.js": "/Social-Web/static/js/main.eda2d92f.js",
+    "static/js/592.a5ecb00a.chunk.js": "/Social-Web/static/js/592.a5ecb00a.chunk.js",
+    "static/media/bg.jpg": "/Social-Web/static/media/bg.ce2da9204839ec2bd42b.jpg",
+    "index.html": "/Social-Web/index.html",
+    "main.e21314fd.css.map": "/Social-Web/static/css/main.e21314fd.css.map",
+    "main.eda2d92f.js.map": "/Social-Web/static/js/main.eda2d92f.js.map",
+    "592.a5ecb00a.chunk.js.map": "/Social-Web/static/js/592.a5ecb00a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.673f2e0b.css",
-    "static/js/main.96394705.js"
+    "static/css/main.e21314fd.css",
+    "static/js/main.eda2d92f.js"
   ]
 }
